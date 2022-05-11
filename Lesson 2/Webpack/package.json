@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.14.0",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-watch": "^8.0.0",
+    "html-loader": "^3.1.0",
+    "html-webpack-plugin": "^5.5.0"
+  },
+  "dependencies": {
+    "webpack-dev-server": "^4.9.0"
+  }
+}
